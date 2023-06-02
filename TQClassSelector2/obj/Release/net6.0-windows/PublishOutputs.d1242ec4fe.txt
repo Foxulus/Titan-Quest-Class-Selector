@@ -1,0 +1,5 @@
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\TQClassSelector2\bin\Release\net6.0-windows\publish\TQClassSelector2.exe
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\TQClassSelector2\bin\Release\net6.0-windows\publish\TQClassSelector2.dll
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\TQClassSelector2\bin\Release\net6.0-windows\publish\TQClassSelector2.deps.json
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\TQClassSelector2\bin\Release\net6.0-windows\publish\TQClassSelector2.runtimeconfig.json
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\TQClassSelector2\bin\Release\net6.0-windows\publish\TQClassSelector2.pdb
